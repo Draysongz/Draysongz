@@ -1,28 +1,21 @@
-- 👋 Hi, I’m @Draysongz
+<h1 align="center">Hi 👋, I'm Rahul</h1>
 - 👀 I’m interested in working with different organization to provide solutions to problems
 - 🌱 I’m currently learning Node.Js
 - 💞️ I’m looking to collaborate on web projects(frontend and backend), blockchain projects, E-commerce projects, e.t.c 
 - 📫 How to reach... reach me on whatsapp 09069276918
 
-<h1 align="center">Hi 👋, I'm Rahul</h1>
-
-<h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
-
-<p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
 
 
-- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+<h3 align="center">A fullstack, blockchain and mobile developer</h3>
 
-- 💬 Ask me about **react, vue and gsap**
 
-- 📫 Reach me at **rahuldkjain@gmail.com**
+<p align="left"> <a href="https://twitter.com/ayomidegidigbi" target="blank"><img src="https://img.shields.io/twitter/follow/ayomidegidigbi?logo=twitter&style=for-the-badge" alt="Dray" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io)
 
-- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
+- 💬 Ask me about **react, php, node, react native, flutter**
 
-I have a bug to document technical stuffs that I do, which can be found at my [blog](https://rahuldkjain.github.io/blog)
+- 📫 Reach me at **dharmiegra4@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
