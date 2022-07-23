@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h1 align="center">Hi 👋, I'm Ayomide Gidigbi</h1>
 - 👀 I’m interested in working with different organization to provide solutions to problems
 - 🌱 I’m currently learning Node.Js
 - 💞️ I’m looking to collaborate on web projects(frontend and backend), blockchain projects, E-commerce projects, e.t.c 
