@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ayomide</h1><br>
 - 👀 I’m interested in working with different organization to provide solutions to problems <br>
-- 🌱 I’m currently learning Node.Js<br>
+- 🌱 2years experience in Node.Js and other backend technologies<br>
 - 💞️ I’m looking to collaborate on web projects(frontend and backend), blockchain projects, E-commerce projects, e.t.c <br>
 - 📫 How to reach... reach me on whatsapp 09069276918
 
 
 
-<h3 align="center">A fullstack, blockchain and mobile developer</h3>
+<h3 align="center">A MERN stack, blockchain and mobile developer</h3>
 
 
 <p align="left"> <a href="https://twitter.com/ayomidegidigbi" target="blank"><img src="https://img.shields.io/twitter/follow/ayomidegidigbi?logo=twitter&style=for-the-badge" alt="Dray" /></a> </p>
 
 
-- 💬 Ask me about **react, php, node, react native, flutter**
+- 💬 Ask me about **react, php, node, react native, flutter, next**
 
 - 📫 Reach me at **dharmiegra4@gmail.com**
 
@@ -41,7 +41,7 @@
     <!-- <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> -->
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <!-- <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> -->
+    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
     </p>
