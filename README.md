@@ -9,12 +9,12 @@
 <h3 align="center">A MERN stack, blockchain and mobile developer</h3>
 
 
-<p align="left"> <a href="https://x.com/starkpack" target="blank"><img src="https://img.shields.io/twitter/follow/ayomidegidigbi?logo=twitter&style=for-the-badge" alt="Dray" /></a> </p>
+<p align="left"> <a href="https://x.com/starkpack" target="blank"><img src="https://img.shields.io/twitter/follow/starkpack?logo=twitter&style=for-the-badge" alt="Dray" /></a> </p>
 
 
 - 💬 Ask me about **react, php, node, react native, flutter, next**
 
-- 📫 Reach me at **dharmiegra4@gmail.com**
+- 📫 Email me at **dharmiegra4@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
