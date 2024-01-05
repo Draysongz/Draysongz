@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayomide</h1><br>
-- 👀 I’m interested in working with different organizations to provide solutions to development project problems <br>
-- 🌱 3years experience in Node.Js and other backend technologies<br>
-- 💞️ I’m looking to collaborate on web projects(frontend and backend), blockchain projects, E-commerce projects, e.t.c <br>
-- 📫 How to reach... reach me on whatsapp 09069276918
+-  I’m interested in working with different organizations to provide solutions to development project problems <br>
+- I have over 3years experience in workin with Node.Js and other backend technologies<br>
+- I’m looking to collaborate on web frontend and backend projects, blockchain projects, bot development projects, e.t.c <br>
+- How to reach... reach me on whatsapp 09069276918
 
 
 
