@@ -2,7 +2,7 @@
 -  I’m interested in working with different organizations to provide solutions to development project problems <br>
 - I have over 3years experience in workin with Node.Js and other backend technologies<br>
 - I’m looking to collaborate on web frontend and backend projects, blockchain projects, bot development projects, e.t.c <br>
-- How to reach... reach me via whatsapp <a href='https://wa.me/+2349069276918'>09069276918</a>
+- You can reach me via whatsapp <a href='https://wa.me/+2349069276918'>09069276918</a>
 
 
 
