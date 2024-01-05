@@ -2,14 +2,14 @@
 -  I’m interested in working with different organizations to provide solutions to development project problems <br>
 - I have over 3years experience in workin with Node.Js and other backend technologies<br>
 - I’m looking to collaborate on web frontend and backend projects, blockchain projects, bot development projects, e.t.c <br>
-- How to reach... reach me on whatsapp 09069276918
+- How to reach... reach me via whatsapp <a href='https://wa.me/+2349069276918'>09069276918</a>
 
 
 
 <h3 align="center">A MERN stack, blockchain and mobile developer</h3>
 
 
-<p align="left"> <a href="https://twitter.com/ayomidegidigbi" target="blank"><img src="https://img.shields.io/twitter/follow/ayomidegidigbi?logo=twitter&style=for-the-badge" alt="Dray" /></a> </p>
+<p align="left"> <a href="https://x.com/starkpack" target="blank"><img src="https://img.shields.io/twitter/follow/ayomidegidigbi?logo=twitter&style=for-the-badge" alt="Dray" /></a> </p>
 
 
 - 💬 Ask me about **react, php, node, react native, flutter, next**
