@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayomide</h1><br>
-- 👀 I’m interested in working with different organization to provide solutions to problems <br>
+- 👀 I’m interested in working with different organizations to provide solutions to problems <br>
 - 🌱 2years experience in Node.Js and other backend technologies<br>
 - 💞️ I’m looking to collaborate on web projects(frontend and backend), blockchain projects, E-commerce projects, e.t.c <br>
 - 📫 How to reach... reach me on whatsapp 09069276918
